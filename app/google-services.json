@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199860997579",
+    "project_id": "hihueueii",
+    "storage_bucket": "hihueueii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199860997579:android:952822a31ce3be1fb87a4e",
+        "android_client_info": {
+          "package_name": "com.hellena.firebase2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6X_Msk0HJzkjkzkjtaHYZsAx_x6NNrUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
